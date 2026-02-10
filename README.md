@@ -1,5 +1,6 @@
 ## ✨ About Me
 Hi !! I am a Computer Science student. I’m passionate about cybersecurity, software development, AI/ML, and UI/UX design, where I enjoy learning and working with interesting ideas. I believe that with the right use of technology and problem-solving skills, we can turn any complex problem into an elegant solution. 
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyadbhat)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyabhat0312@gmail.com)
@@ -36,5 +37,5 @@ Hi !! I am a Computer Science student. I’m passionate about cybersecurity, sof
 
 
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diya0312&theme=dark)](https://git.io/streak-stats)
