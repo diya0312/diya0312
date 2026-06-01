@@ -1,5 +1,5 @@
 ## ✨ About Me
-Hi !! I am a Computer Science student. I’m passionate about cybersecurity, software development, AI/ML, and UI/UX design, where I enjoy learning and working with interesting ideas. I believe that with the right use of technology and problem-solving skills, we can turn any complex problem into an elegant solution. 
+Hi !! I am a Computer Science student. I’m passionate about Cybersecurity, AI/ML, and secure intelligent systems where I enjoy exploring the intersection of cybersecurity and emerging technologies through different projects. I believe that with the right use of technology and problem-solving skills, we can turn any complex problem into an elegant solution. 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyadbhat)
